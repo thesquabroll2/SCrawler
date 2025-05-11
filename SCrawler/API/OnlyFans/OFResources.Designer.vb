@@ -22,7 +22,7 @@ Namespace My.Resources
     '''<summary>
     '''  A strongly-typed resource class, for looking up localized strings, etc.
     '''</summary>
-    <Global.System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "16.0.0.0"),  _
+    <Global.System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "17.0.0.0"),  _
      Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
      Global.System.Runtime.CompilerServices.CompilerGeneratedAttribute()>  _
     Friend Class OFResources
@@ -70,7 +70,8 @@ Namespace My.Resources
         '''https://github.com/riley-access-labs/onlyfans-dynamic-rules-1/blob/patch-1/dynamicRules.json
         '''https://github.com/DATAHOARDERS/dynamic-rules/blob/main/onlyfans.json
         '''https://github.com/DIGITALCRIMINAL/dynamic-rules/blob/main/onlyfans.json
-        '''https://github.com/deviint/onlyfans-dynamic-rules/blob/main/dynamicRules.json.
+        '''https://github.com/deviint/onlyfans-dynamic-rules/blob/main/dynamicRules.json
+        '''https://github.com/ra [rest of string was truncated]&quot;;.
         '''</summary>
         Friend Shared ReadOnly Property DynamicRules() As String
             Get
